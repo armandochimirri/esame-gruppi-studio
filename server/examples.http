@@ -1,0 +1,16 @@
+GET http://localhost:3001/api/mystudygroupmeeting HTTP/1.1
+
+
+
+# GET http://localhost:3001/api/templates HTTP/1.1
+
+# GET http://localhost:3001/api/memelist HTTP/1.1
+
+# POST http://localhost:3001/api/sessions HTTP/1.1
+# Content-Type: application/json
+
+# {
+#     "username": "test@prova.it",
+#     "password": "password"
+# }
+

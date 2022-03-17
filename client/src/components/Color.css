@@ -1,0 +1,40 @@
+.red
+{
+    color: red;
+}
+
+.green
+{
+    color: green;
+}
+
+.yellow
+{
+    color: yellow;
+}
+
+.lightblue
+{
+    color: lightblue;
+}
+
+.blue
+{
+    color: blue;
+}
+
+.purple
+{
+    color:purple;
+}
+
+.brown
+{
+    color:brown
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
